@@ -1,220 +1,122 @@
 {
   "projects": [
     {
-      "id": "27a680ca-c563-8039-bc89-d4dd1f3cdb2e",
-      "title": "인공지능 특강(선형회귀 모델)",
-      "date": "2025-01-13",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T20:44:00.000Z",
-      "url": "https://www.notion.so/27a680cac5638039bc89d4dd1f3cdb2e",
-      "content": [
-        "[table]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[file]"
-      ]
-    },
-    {
       "id": "27b680ca-c563-803a-89a6-fd63c3926fc6",
       "title": "알고-파티 2회(행사)",
       "date": "2025-08-10",
       "tags": [
         "IM4U"
       ],
-      "status": "완료",
-      "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/2051f94f-4e3f-42ef-8297-9a157df1f036/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2025-09-28_042020.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466T5RDQCTW%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T205550Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIFltIc62GAkkJ53mczDYnWf490Y3kbdeUB7NXNm5BxvjAiEAxt%2BinsPt2H6EjWlItcUHNCQxld3pn%2BY3uPzMzxZFt7YqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDMrmw%2Bp6FL7BnmfWaircAyWiHmEBC0zQ7OnZgB3eTbs63VnVSyMudKUKYtJ8o24pn4d%2Ftz65CT5aygaWH9IdBhf68pKsCBZtFIEBvqEBGsZb%2BsR6z7BFl%2FnC9Ky9eiKgPsFAjVKL8Cv96l0X5BQXAVWrIQgkf8P3pR5iuzus%2FeF26nzYg638rw0K0BqYkRN%2FUWZHVZuEmU1SRyQTf4DQ016P8XpZtb48Jbs8DkpDcUkwrE%2FdlD7JUtheCke56MijxeFrNzCAAGEenJE%2BqEV14wzhG3oeCem2oJ13tz8ZGgj9kWreyXYRDd7argaGb2cC%2BbVtefmKsnY2J3Or6LNNhcZTmnPgVij9rJr%2Bn6tHozUKVNgjWfATLmqEu2KP0hxZhUZ1iYiB1VVryPAkUGSFzKW5tlCYXmwmMRhP71pFcYJXFIvuowtMRYlsdfyvqb8%2FAfKhNTE8sIXPRUlWgOunFlJxzCkFl%2Fq745v7tqAK3WdOUUbVKtwJl6MU60ongQO%2FbIyhd%2FCyVpRQqolQY%2BdMk54Eh%2BjJ5cTx%2F%2Fq906JLhzA7DRkAhw7xCrqYNu4X3pD9JkRuFc3TNR0JIOxEtvE0zWtol8DC2UMKq3femcdSwa8xL84BDPs0AyIDQc6DfgJp24oR3u4hv%2FWBlMf%2FMIOB4cYGOqUBaXh%2BxPNsRc0IPRdDp31TxAym78uy9T%2FiTwjbyi1WNnN4vp1%2FGXJdmwY07Y%2Fr3plSHuCVYb6X1q8%2FQ0aMEC4KyTeo6zhzvGkkNRw23FQGEOmNt9O1dNJKsK5eWqdrTX0b6njpNRL6pvvDIgOHLNcrTejrmNPa49irXElrEju2LpFMjHIkAejpteN1SKsYksQMrsPQW2kkKGX4EzwrixApGEe5yq0V&X-Amz-Signature=f59d7f85e00fc72a5c7e9ff02cad808e8f89dfcc0873692072d42c9eabc1dd60&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+      "status": "알수없음",
+      "image": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/2051f94f-4e3f-42ef-8297-9a157df1f036/%ED%99%94%EB%A9%B4_%EC%BA%A1%EC%B2%98_2025-09-28_042020.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4664EYKRRGS%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210601Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDyl8O3y54T5i3qh3j%2FNr%2FJZ0ZrRaAi5g6A8WZnxMpERAIhAKj8M1lp8m20ZTfLWBn5zcwdBLmDolYx3TLrjFwoUBeMKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igz966X4GrUFlc%2FGycgq3AOsKDVVInUIQ8N%2Fchh05ALzgj13ewcxMv%2B%2FeHe3g4xy5QIiJWRtawKbyQsSTesuVlNeoMKo3gYj2DcBjJdc7VUxdDipu0i%2FPJpOoOIfcIsxUt5cgEnOo7ulZVHCPDg3V7l82Is7YpXg76dK81K%2B9wkqgJLqP%2FWwCdGJDR3ybo2M3k2s0911LZh49MlcHt6QuGYvNXUGmYol5gRrbnl7HYeC0%2BM8N8cFbzooSYPHPfKc01fo%2Fzv0D0mPbKl91SF3tbg04CoToygH25Wrejat9Hvy89zgUN3j5tnxF5XZp0MKbi0o7OSAY3P2bXv7yvdxumVgM%2BZJFtI8mg%2Fm9TwI14B3lYL%2BeIJtfAdEg2DXYr1llHe4r%2BcPAANCSqkrj1fNoDilH%2FYrvR7URyfYJ6ZG4PMfQWSm%2F33ITtmg3u9ag8Mzx0FORWeZbkCNmL4UE%2B0ji8qgFpdzq%2Fsn4MPojcbsIVnqBVRKToJ%2FU2V3KOvP6BRx%2Bf5v1K54xgXxxeXeNPXU%2FAXP7xoyhDQySW4F%2F19u2Fh67CMWdxUyDBzngvCf%2FeLBfsHzoEgf5HfV6D31wYC5JIRPDupKHW6TYfsc3Rdr%2BJLeDXqbluvVHS6ipYAse9SE%2Fn2aZWohAtGzEmo7szDigOHGBjqkARsRsyINBjTj4VEqLySF0AEwd%2BaZef%2FoJhcPVGNFJGcFKILR2lCzCCyuCPG1XCzne7DJ3N0OCEXUug%2BBysTe86fm%2Bo8ulqKzSkla%2BNKds9uknzXdCbiDlREaT4%2BmQn18TELnWmDJ0AYv6N%2FzFPzJBCeF36Lyu5ocixqIf%2BiLhfoSjRGc6vVw0gaVRsYSd4iqnhEjvFgMZOHbqa%2B%2FKALeq5Enj8%2FN&X-Amz-Signature=39445b615fa96a96fde906f42126091df85f76ca432c6bf7c66cf90dd738f337&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
       "description": "",
       "lastEdited": "2025-09-27T19:47:00.000Z",
       "url": "https://www.notion.so/2-27b680cac563803a89a6fd63c3926fc6",
-      "content": [
-        "[file]",
-        "[file]"
+      "blocks": [
+        {
+          "id": "27b680ca-c563-8008-9b8d-ffb0227ca28c",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/5db49235-0920-4901-955b-dcb341148d96/kid17098-kid16917-%ED%96%89%EC%82%AC_%EC%99%B8%EB%B6%80_%EA%B2%8C%EC%8B%9C%EC%9A%A9-1-.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UWWX5RZA%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210601Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJGMEQCIEhNOYZxUK%2BSUiX7M2jKIeZ4RsQJrEcEu5GVbbvhWHVSAiAySOiFLwRfZulknUfv9hBqPfe4K8ZU7VSbP2lvVsCJxSqIBAit%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMjrGr%2F40UVnKEVU0bKtwDcnUTjU%2FB6Mh6Sdy3X5Oab2Qjc8otTfSlrJhPsvNt1OUL64eLensIJ63t%2F%2BeUrXPpH70NkmdgPyO16kh5QAp6jGs9lGQSMyLv5Ib3V0ufv9wX1qfxdcyCD9fpVz5NbL6uAh4OZsZr2EZjLotlM293l9Iqej33Y8W%2BBV9v%2B62xUQLHpBQklokzg%2F4R3rKQaz1LQzZss6FHHfhLTiY9173xdrXphauZwSwSUfIal4tthXGTCOgxMXzc6wOuUcGL7a1GOqsbJq77UvWq5rftBHGWjAcmWco37YB4aKQxMMGdfjokIMoga5tWVSLwQCWTm6PraGjt%2BK8ohaC%2F%2FHfkXIph54u9jvccy3eo0VEv4IC9Sy4MPsoRaiLivu9T2PCPnWlcfsy%2F1GT0sG8Xt63VqCndN1C9W3DzmGc7XsxeVsjD17navnfOXbfrqYZEyUcI8akCMYSqp3rozQKv286%2BIPy%2BY1t39liDAflFcRgzuXgUQUWryZnMDrupXCbkWqvCG%2BkfFSejV8OXmcQAj%2F0aZ7bbdszg29DSn3%2Bf059zS6WUE%2FEB0HWdwuGOlnxwbI8onJogVrc7NMyCuT5nS1wqJyHbrt8sVttPamjzH6uje3FoWNZxa9s%2FRJe15oPrjfswjoDhxgY6pgEfXo7HY%2B1zip3iAvVDKAGeJIMaEg6LNB%2BvUXiQ6C801y1hHUQe0%2BW6G8vlwupXxOxAFo7WJh2vHVXP7120hUxvxWg7qwnXUwN9g52%2BgxtvtjPZojtxQlM%2FLGLP2G%2FaeNIPYg4e2WWbk5ANBVyV2gpF4iiQY%2Fmuk6m0XoHDvAhwBVaIWEOQUl2KTqSsNZhrZjmjzqsDocBnCSyAMuTTY8RTHrsnBrfr&X-Amz-Signature=9ba0a1916bb690a0c786361461e9676edf954ff68a4790cf1b704182801edfc5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27b680ca-c563-8056-a5ad-e0a7156b7a17",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/5db49235-0920-4901-955b-dcb341148d96/kid17098-kid16917-%ED%96%89%EC%82%AC_%EC%99%B8%EB%B6%80_%EA%B2%8C%EC%8B%9C%EC%9A%A9-1-.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UWWX5RZA%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210601Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJGMEQCIEhNOYZxUK%2BSUiX7M2jKIeZ4RsQJrEcEu5GVbbvhWHVSAiAySOiFLwRfZulknUfv9hBqPfe4K8ZU7VSbP2lvVsCJxSqIBAit%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMjrGr%2F40UVnKEVU0bKtwDcnUTjU%2FB6Mh6Sdy3X5Oab2Qjc8otTfSlrJhPsvNt1OUL64eLensIJ63t%2F%2BeUrXPpH70NkmdgPyO16kh5QAp6jGs9lGQSMyLv5Ib3V0ufv9wX1qfxdcyCD9fpVz5NbL6uAh4OZsZr2EZjLotlM293l9Iqej33Y8W%2BBV9v%2B62xUQLHpBQklokzg%2F4R3rKQaz1LQzZss6FHHfhLTiY9173xdrXphauZwSwSUfIal4tthXGTCOgxMXzc6wOuUcGL7a1GOqsbJq77UvWq5rftBHGWjAcmWco37YB4aKQxMMGdfjokIMoga5tWVSLwQCWTm6PraGjt%2BK8ohaC%2F%2FHfkXIph54u9jvccy3eo0VEv4IC9Sy4MPsoRaiLivu9T2PCPnWlcfsy%2F1GT0sG8Xt63VqCndN1C9W3DzmGc7XsxeVsjD17navnfOXbfrqYZEyUcI8akCMYSqp3rozQKv286%2BIPy%2BY1t39liDAflFcRgzuXgUQUWryZnMDrupXCbkWqvCG%2BkfFSejV8OXmcQAj%2F0aZ7bbdszg29DSn3%2Bf059zS6WUE%2FEB0HWdwuGOlnxwbI8onJogVrc7NMyCuT5nS1wqJyHbrt8sVttPamjzH6uje3FoWNZxa9s%2FRJe15oPrjfswjoDhxgY6pgEfXo7HY%2B1zip3iAvVDKAGeJIMaEg6LNB%2BvUXiQ6C801y1hHUQe0%2BW6G8vlwupXxOxAFo7WJh2vHVXP7120hUxvxWg7qwnXUwN9g52%2BgxtvtjPZojtxQlM%2FLGLP2G%2FaeNIPYg4e2WWbk5ANBVyV2gpF4iiQY%2Fmuk6m0XoHDvAhwBVaIWEOQUl2KTqSsNZhrZjmjzqsDocBnCSyAMuTTY8RTHrsnBrfr&X-Amz-Signature=9ba0a1916bb690a0c786361461e9676edf954ff68a4790cf1b704182801edfc5&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27b680ca-c563-80d4-b424-df433cbb33e4",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
       ]
     },
     {
-      "id": "27a680ca-c563-80df-9224-ed73be02cdfb",
-      "title": "머신러닝 특강(오렌지3)",
-      "date": "2024-07-22",
+      "id": "27b680ca-c563-8015-a9f2-eddc825a9b1f",
+      "title": "정보 보안 특강(암호학)",
+      "date": "2025-07-28",
       "tags": [
         "IM4U"
       ],
-      "status": "완료",
+      "status": "알수없음",
       "image": null,
       "description": "",
       "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/3-27a680cac56380df9224ed73be02cdfb",
-      "content": [
-        "[table]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-8086-8535-d0c794ce1059",
-      "title": "디지털 공학 특강",
-      "date": "2024-07-22",
-      "tags": [
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac56380868535d0c794ce1059",
-      "content": [
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-8021-88e2-fe8038ecb5d1",
-      "title": "정보 보안 특강",
-      "date": "2024-01-22",
-      "tags": [
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac563802188e2fe8038ecb5d1",
-      "content": [
-        "[file]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-80db-ba50-f0c7ce76223b",
-      "title": "파이썬 심화 특강(데이터 분석)",
-      "date": "2022-07-25",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac56380dbba50f0c7ce76223b",
-      "content": [
-        "[file]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-8034-a8af-f8c89b79bfab",
-      "title": "파이썬 기초 특강(문법)",
-      "date": "2022-07-25",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac5638034a8aff8c89b79bfab",
-      "content": [
-        "[file]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-8021-9adb-f31536fdaa5d",
-      "title": "파이썬 심화 특강(데이터 분석)",
-      "date": "2023-01-02",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac56380219adbf31536fdaa5d",
-      "content": [
-        "[file]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-80f0-8793-c3d4044e773f",
-      "title": "파이썬 심화 특강(웹 스크래핑, 챗 봇)",
-      "date": "2023-07-24",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac56380f08793c3d4044e773f",
-      "content": [
-        "[file]",
-        "참가자 명단(기초 + 심화)",
-        "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
-        "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
-        "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
-        "김지후, 이현준, 정명진, 정서준"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-8053-a790-d6a46ef76ff3",
-      "title": "파이썬 기초 특강(문법)",
-      "date": "2023-01-02",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac5638053a790d6a46ef76ff3",
-      "content": [
-        "[file]",
-        "[file]"
-      ]
-    },
-    {
-      "id": "27a680ca-c563-803c-aeba-fd28f2751b32",
-      "title": "파이썬 기초 특강(알고리즘)",
-      "date": "2023-07-24",
-      "tags": [
-        "Python",
-        "IM4U"
-      ],
-      "status": "완료",
-      "image": null,
-      "description": "",
-      "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27a680cac563803caebafd28f2751b32",
-      "content": [
-        "[file]",
-        "참가자 명단(기초 + 심화)",
-        "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
-        "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
-        "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
-        "김지후, 이현준, 정명진, 정서준"
+      "url": "https://www.notion.so/27b680cac5638015a9f2eddc825a9b1f",
+      "blocks": [
+        {
+          "id": "27b680ca-c563-80ae-be0d-da164e624705",
+          "type": "table",
+          "hasColumnHeader": false,
+          "hasRowHeader": false,
+          "rows": [
+            {
+              "id": "27b680ca-c563-803b-8a9f-cc63843b1ad5",
+              "cells": [
+                "일자",
+                "수업 내용",
+                "상세 내용"
+              ]
+            },
+            {
+              "id": "27b680ca-c563-80e4-80a9-d77edc60b908",
+              "cells": [
+                "1일",
+                "암호학 기초 개념과 고전 암호 체계",
+                "- 정보 보안 기본 요소\n- 암호 용어 및 암호학 원칙(케르크호프스 원칙)\n- 고전 암호 체계(시저 암호, OTP, 이중 전위 암호, 코드북)\n- 암호 해석 기법(빈도 분석, 전수 키 조사)"
+              ]
+            },
+            {
+              "id": "27b680ca-c563-8032-b61d-e8ed872d9f10",
+              "cells": [
+                "2일",
+                "현대 암호",
+                "- Confusion and Diffusion\n- Entropy\n- (불)균등분포\n- 시스템의 무질서 측도\n- (P)RNG\n- 대칭키 알고리즘 개요"
+              ]
+            },
+            {
+              "id": "27b680ca-c563-804f-9f58-c0de8bb2b1ab",
+              "cells": [
+                "3일",
+                "대칭 키와 공개 키",
+                "- Stream 암호(A5/1, RC4)\n- Block 암호(DES, AES, TEA)\n- 중간자 공격, Padding attack\n- 공개 키를 이용한 서명, 부인봉쇄\n- 인증서와 PKI"
+              ]
+            },
+            {
+              "id": "27b680ca-c563-80a9-b2d2-ccec66219e2c",
+              "cells": [
+                "4일",
+                "인증과 인가",
+                "- 접근 제어 개요(인증, 인가)\n- 패스워드 크래킹\n- 생체 인증(지문 인식, 해밍거리를 이용한 홍채인식)\n- 접근 제어 행렬과 권한 목록\n- 대리 혼돈\n- MLS(벨-라파둘라 모델, 구획)\n- 보고서 작성"
+              ]
+            },
+            {
+              "id": "27b680ca-c563-809a-8be7-c9fc7cb5d621",
+              "cells": [
+                "5일",
+                "개별 프로젝트",
+                "- 개별 보고서 발표"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "27b680ca-c563-801a-a91e-d8d558011611",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/0a2fc387-1284-464a-bf80-55ff2358e339/kid17087-25%EB%85%84%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%ED%8A%B9%EA%B0%95-%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88_%282%29.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UBKSKMPT%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210602Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQCwmuWA6onQ%2FW%2FnlF4xpRkO3xqV48bbYYjGEQJL3olBswIgD9vt75UIOt4qn%2BF6cq7JkUOWrQvsclXHep1Ca%2F3geOEqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDCgFkFJQRszwA163UCrcA0lHH2j40Kmk6qywksjoZ5Odlig1L8FAKS%2BzRTY0bFE%2F1sEOZOmgLnk9PpVm5DhFHdzXNoN%2FDbbCKhHLYZ8%2BXxCQEmsAr4ahBo28%2FwZUkUIH0JA7tWUL0Ya4LafEgMcxwsRPiOyopOMkfeOHyOw7Y2osrJm0XYwXCzlK7becnvHr4mmlrLsZrioG3KtjRo%2ByvjkIktv2Sq4DTUfAimb1cpiDiA%2FsuJAHwFFbatpIReF8Lx0xy%2F9IO4r3hR3g9x2YiiM8uxIRSZ7WZEddqeAMkTraayXbllkvwwHmCXRou%2FKmN784xL8XcuasEK471AeCFbxgCqzdMin5rr3PmAvA6pbWvD818hKwmDPvMCZQYENStjzGJEoK7tOUw6ygRWbzHQ5krcHzg0BASeZAW1%2BrcwLi9B4%2BGifN1Jrs4igzbnA%2BChuGL3J3X%2BQRecfNRWUhXvDKszXsAY7s9q7IegL%2BP5KI8eYGhCisFBYb2WRYLZmi0aSb8ESx9NzXW1w6dCDQV4NaW5qFnnkacFF7CB90UfqIvKGZciyaBUdmrfXPML%2BiaIJUtqKrIMxOVuyMmj%2FcjHpyc1A7IDu%2FSc4Tk3f3q0AqxFn%2F82%2By%2F%2B0oHjewVxPRzMaBP9DfWOi7XklmMPiA4cYGOqUBU6wzrf2niBqgYt33xnRb7hHOgWjwGLM%2B2%2Fp%2FcnoUnJhUJ27F5e9LjQ2JIo2QfuXl4JA2HVwy2%2Fo%2FeN10M7CgmxFljz0ccovyf1fVQyV1S%2FHBfXlB4BZeHEssYON1MBvETJYFblv6LX9HShf3Mx%2BzZW9TDltTUOo7Ex1s6XIAmhUXtMDgkElBGIs6Xsi7HX70va73Y5EhUEFf5EqC7GED%2Ffaio9zz&X-Amz-Signature=258aad3e75676fbdc15e00dd53bdaea17d93bf146c0513a0194a9a6eb379b221&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27b680ca-c563-8045-b73b-fcc8fc44229d",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
       ]
     },
     {
@@ -225,45 +127,759 @@
         "Python",
         "IM4U"
       ],
-      "status": "완료",
+      "status": "알수없음",
       "image": null,
       "description": "",
       "lastEdited": "2025-09-27T17:45:00.000Z",
       "url": "https://www.notion.so/OOP-27a680cac5638072ba34e774455ef288",
-      "content": [
-        "[table]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[file]"
+      "blocks": [
+        {
+          "id": "27a680ca-c563-800b-802a-c315eba07eb5",
+          "type": "table",
+          "hasColumnHeader": false,
+          "hasRowHeader": false,
+          "rows": [
+            {
+              "id": "27a680ca-c563-80cf-8ce9-d48a00e42075",
+              "cells": [
+                "일자",
+                "수업 내용",
+                "상세 내용"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-806f-b2ed-dcc2f682d539",
+              "cells": [
+                "1일",
+                "함수와 모듈",
+                "① 함수의 정의, 인수전달 방법, 스코핑 룰의 이해\n② 람다(lambda) 함수의 사용\n③ 내장함수 사용하기(map, filter)\n④ 모듈과 이름공간"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8081-a4da-cbd4d1e02dfd",
+              "cells": [
+                "2일",
+                "클래스 Ⅰ",
+                "① 클래스의 정의 및 인스턴스 객체 생성\n② 클래스 내의 메서드 정의\n③ 생성자, 소멸자, 연산자 중복\n④ 상속과 합성"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80bd-af7e-c1b4cc5adf79",
+              "cells": [
+                "3일",
+                "클래스 Ⅱ\n예외 처리",
+                "① 다형성\n② 캡슐화\n③ 예외처리-⑴ (try/except/else, try/ finally)\n④ 예외처리-⑵ (raise로 예외 발생시키기)\n⑤ 예외처리-⑶ (assert 문으로 예외 발생시키기)"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-809c-83cc-c6f34039f3ee",
+              "cells": [
+                "4일",
+                "개별 프로젝트 Ⅰ",
+                "실생활에 필요하거나 또는 프로그램상에 있었으면 하는 기능을 설계한후 그 설계한 내용의 모듈을 클래스와 함수를 사용하여 코딩을 완성한다."
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8090-95e7-d978cd40fa5c",
+              "cells": [
+                "5일",
+                "개별 프로젝트 Ⅱ",
+                "진행중인 모듈을 완성하고 포트폴리오를 완성한다."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "27a680ca-c563-80ac-a614-ca13fb37b31e",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/7904f31c-8e28-4e52-8522-cf3576c02d17/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98_%EC%9D%B4%ED%95%B4%EC%99%80_%ED%99%9C%EC%9A%A9.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466UFFRRRUF%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210602Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIEFePit9vt3Bg0nppB45LpBDXPzoDA5fhihC9Y4AmO7wAiEArCogQolXdPvfEuY4M%2BkPKVzSyl71fdgy9FD4Uur1dH8qiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFR2PX9tY9%2Bn%2FFVZyCrcA5SOW7zk%2BOi9B2p9wy%2F4LNM8Gf1sJZcfG6JKfX2j3AVpZNtLx6luyHdhUy4XP%2BkJQ6qFT1511zEuxB3NytnZjreENowAbGcGf7lur%2BawmRAFs62kd0uL6XCyn2UquqHsaOFIVasTLGE2sv9cuYQI833yuZASBbN9YJJtUl4DGpv5oztyiq9OtIfn%2B%2FItxjc3NOfuqFVhnS5VoZkBkRPl0thojorqWs6DwBau0FXSAgx2uqwoT6gIE8xQTY3vs89eaKInYEmTzBS6HvTIDhOYwsmBN%2FooXc%2FIrsfrDbmIq%2FLgVK4Sw%2FGiZ0uPtgsiObh7kOrl%2BWl1eTN9hAnTntBx8MANV2wz%2B%2BRex878c3Cds2o0gkjD8dxK22wWPCbz%2BDVxb2ma7b7QfbywN6Sam2UbcwMWeBIjYaXawskvZ9cgiLUmdiOhuImXMGjbZUBZp4kFx0ckBT0r3NpgM89KkPZhQVe9Svg74vT1w6r771LlqcWLf35BQAlIFGC9J5cPkBnQOKXFMEyUsyNXSnW1NFpr%2F6bbw9Nr6fBTPP8dcQoPYIJWwPefeKJy7TdCG%2Bu3nTfy5YN9VGH%2F3tlQkjSrYvZIyIygpLSrQMRkvHjbvHq3PMcS2Gn3SjDtMrfUevvkMKyB4cYGOqUBawFNI7cBDBqQBYH6qdud8xYUfM%2FCHvbl7TJQZK%2BFRC2jAm4y2q1pskH8W1ai042OVHokLLmPtWJhjMU%2BuIVKDF8kEfzbo52rgIfaTX6z58ZoiOgvI%2B8D1OdbpTAQhdh7GCJqUAywDDAWF7F5N8Nx8GGDhjXuMPR8yxV36j4Xqbvuo0uEK1Ucwpp%2BB0bNRydik8shtLe8OHttkKq1mw6eiNonaWtb&X-Amz-Signature=8d71f83046753a39827c3f50be622f6b4184c1dd16e40e255b5c93bca28d517e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-806c-8b13-e0988d0cbe17",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
       ]
     },
     {
-      "id": "27b680ca-c563-8015-a9f2-eddc825a9b1f",
-      "title": "정보 보안 특강(암호학)",
-      "date": "2025-07-28",
+      "id": "27a680ca-c563-8039-bc89-d4dd1f3cdb2e",
+      "title": "인공지능 특강(선형",
+      "date": "2025-01-13",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T20:44:00.000Z",
+      "url": "https://www.notion.so/27a680cac5638039bc89d4dd1f3cdb2e",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-8058-9bf1-e5a7e4e66e9a",
+          "type": "table",
+          "hasColumnHeader": false,
+          "hasRowHeader": false,
+          "rows": [
+            {
+              "id": "27a680ca-c563-8078-b89c-dcb636bb82bc",
+              "cells": [
+                "일자",
+                "수업 내용",
+                "상세 내용"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8057-84b6-e6a95cf1e1b5",
+              "cells": [
+                "1일",
+                "변화율의 개념과 기본 수학적 기초",
+                "① 평균변화율과 순간변화율의 정의\n② 기울기(Gradient)의 개념과 그래프 해석\n③ 간단한 일변수 함수의 도함수 계산 연습\n④ 파이썬으로 기울기와 접선의 시각화"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80d5-960a-d9b79a8d2e47",
+              "cells": [
+                "",
+                "",
+                "※ 심화반 추가 학습 내용\n① 벡터의 정의, 내적과 외적\n② 행렬 덧셈과 곱셈, Determinant"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80ac-b1db-fe0d44b4c834",
+              "cells": [
+                "2일",
+                "다변수 함수와 편미분",
+                "① 다변수 함수의 정의와 예시\n② 편미분(Partial Derivative)과 기울기 벡터\n③ 방향미분(Direction Derivative)의 의미\n④ 파이썬으로 다변수 함수의 편미분 계산 및 시각화"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80c6-9a44-c5db1af1a647",
+              "cells": [
+                "",
+                "",
+                "※ 심화반 추가 학습 내용\n① 방향 도함수의 최대 및 최소\n② 행렬 덧셈과 곱셈, Determinant"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8067-9f70-e769dc21db2f",
+              "cells": [
+                "3일",
+                "손실 함수와 경사하강법의 기본 원리",
+                "① 손실 함수의 정의 (예: MSE - Mean Squared Error)\n② 경사하강법의 원리와 수식 유도\n③ 학습률(Learning Rate)의 역할과 중요성\n④ 간단한 2차 함수에서 경사하강법으로 최솟값 찾기"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-808b-a6bf-c53aea9446c6",
+              "cells": [
+                "",
+                "",
+                "※ 심화반 추가 학습 내용\n① 최소제곱법을 통한 파라미터 도출"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80d8-b155-ee8176226530",
+              "cells": [
+                "4일",
+                "선형 회귀 모델 도입 및 구현",
+                "① 선형 회귀의 기본 개념\n② 경사하강법을 이용한 선형 회귀 모델 학습\n③ 학습률(Learning Rate)의 역할과 중요성\n④ 모델 평가 방법 (R² Score 등)\n⑤ 선형 회귀 모델 구현"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-809e-9013-d77c2d5b2ba9",
+              "cells": [
+                "",
+                "",
+                "※ 심화반 추가 학습 내용\n① 과학습(Overfitting)의 정의와 원인\n② 손실 함수에 정규화 항 추가\n③ 정규화가 기울기 계산에 미치는 영향"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8037-9f3b-cb4507d39429",
+              "cells": [
+                "5일",
+                "개별 프로젝트",
+                "① 실제 데이터에 모델 적용\n② 결과 분석 및 발표"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "27a680ca-c563-8035-9e36-d49e6b3ea337",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/86d1cfcb-08c8-46a6-8691-bed7449a3a31/kid16877-2024_%EC%97%AC%EB%A6%84_%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%B5%ED%95%99%EC%8B%A4%EC%8A%B5_%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665Y4TGAZY%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210604Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIErO5yu2WUid2lY3WjftEaDZxDdhaDSzzLn%2F9JhWCnSmAiEA1FlxKc90uKhfBa0PGDMJ7GuixCvDy%2Ff0SsL0jPFS9FEqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHEPE67J%2BOv16Bw4wCrcA9GgoRfblG0xGEwAXvPI9kh2h2Si4htJVdvOq6wwIEnygVDaACrkq7tFCO6d5JoS6H2omVYhTn%2B5aLqbz0xcHXKk0eu0ydJMBfL4NpmGDUOTWfGf1eKEUL3oKkPNQcg%2B1kVNdb8bGazDDYsQszsesU1qTKql9JBLCMyJkZbtGs6huYTY0wIjETXqbyEHSLDFMvXBCscSWU4vzwoKZSdkWkYui804HMe3CLxMhv6J9RJMZxLm%2FH%2F9RfC6mU0PBQ9PC6yU%2BMdBZTPot6AmIkw2B0zolRpQc53O3amUO%2FayLYM6YyyuHWXz5fXyoj3OlEL7Y%2F69T881zzXHHlqr0ef6pKGzuDuF09cB866QAEislCzy6hiDYncNj%2FpkZJkdoVk%2Bwku6kqIGyoSVnus%2BxA9o8Qg9rOiiI42F%2B4mtVQtUZBNWGW8bl8zl8JZjL7fJxJXiQZhPnRyTxu4An094wGNGUxN%2FJ2su2vQVmgIlrUvKXBZfU36P%2BRrZjU1H6UXrcB1mY6lUKycNBS52fwaTbQzhEajKp32zeD7y%2FyRJUrZTYyLKVi5IzArU0%2F1Dm50DB%2BVZTXNoeYF5V7qmMbFEiVyJ8bJb2jSkCNDrtLSTEuPeuMt43n5V3ieB94FT%2BlagMJuB4cYGOqUBKZhko9mTp4ViYW6HIExqquO3KZ2TG7YkXOj5mne%2B9Mpk%2FjQMsY%2FSRnbpHkOkXY%2BzFnT852NdHzLboh39jGtR66KoSbfXl3cPLSXrCfstyoHEV8HiLgiBmSomU63C9mqL8Bkkf6mXvWyHLzsGDilEUe%2F5bGFBHXiTt1n3hx%2BYNO3uCTCxtFw30jqzGZ9SbZWce72McQI1ekc5MaWebjvxqq%2FAQFCo&X-Amz-Signature=cfa6624967fd7387e23ea55c7f26942cdb4ed3b132f00b5e57d7a55408f73ad9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-80fc-a151-ed5e2e9bb2a4",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-80df-9224-ed73be02cdfb",
+      "title": "머신러닝 특강(오렌지3)",
+      "date": "2024-07-22",
       "tags": [
         "IM4U"
       ],
-      "status": "완료",
+      "status": "알수없음",
       "image": null,
       "description": "",
       "lastEdited": "2025-09-27T17:45:00.000Z",
-      "url": "https://www.notion.so/27b680cac5638015a9f2eddc825a9b1f",
-      "content": [
-        "[table]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[table_row]",
-        "[file]"
+      "url": "https://www.notion.so/3-27a680cac56380df9224ed73be02cdfb",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-80ba-ab63-c58afc6c8dcb",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-8045-9709-e676f70e9786",
+          "type": "table",
+          "hasColumnHeader": false,
+          "hasRowHeader": false,
+          "rows": [
+            {
+              "id": "27a680ca-c563-803e-b90d-e9ee19103aab",
+              "cells": [
+                "일자",
+                "수업 내용",
+                "상세 내용"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8091-873b-f18255872b70",
+              "cells": [
+                "1일",
+                "데이터 시각화",
+                "- 데이터 세트 이해 및 활용\n- Kaggle 사용법 및 데이터셋 탐색\n- 데이터 전처리 기법\n- 데이터 행렬 표현 및 이해\n- 데이터 시각화 기법(히스토그램, 산점도, 박스플롯 등)"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8078-85c2-e9dc7c8fd66e",
+              "cells": [
+                "\n2일",
+                "머신 러닝",
+                "- 선형 회귀 이론과 실습\n- 인공 신경망 개념과 모델 구현\n- 랜덤 포레스트 특징 및 실제 적용\n- 에이다부스트 원리와 실습\n- 학습데이터, 테스트 데이터에 대한 이해\n- 결과 분석을 통한 모델 성능 평가"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-8095-b3bd-e803271d850c",
+              "cells": [
+                "3일",
+                "이미지 분류, 유사 이미지 검색",
+                "- 이미지 데이터 특징 추출 기법\n- 벡터화, 코사인 유사도\n- 선형 회귀를 이용한 이미지 분류\n- 계층적 군집화 개념과 응용\n- 유사 이미지 찾기 실습"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80f7-994d-d19bee2a477e",
+              "cells": [
+                "4일",
+                "실전 데이터 분석",
+                "- 분석 주제 선정\n- 데이터 수집\n- 데이터 전처리\n- 상황에 맞는 적절한 모델 선정\n- 결과물 시각화\n- 분석 결과 도출 및 해석"
+              ]
+            },
+            {
+              "id": "27a680ca-c563-80d7-bac3-f6fed857413b",
+              "cells": [
+                "5일",
+                "프로젝트 보고서 작성 및 발표",
+                "- 프로젝트 보고서 작성\n- 프로젝트 발표"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "27a680ca-c563-8099-b3d5-d3b187e1848b",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/0e8278c9-db20-4e9d-bf53-90b60a37eedd/kid16914-%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99%EA%B3%BC%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-1-.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466YMKU5ZCW%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDR4HuklzlEcLd%2BeE89IvyedGvcJlt2WM2X7qQmaaP%2FIgIhAJJ6zmXRI5Le1ynf0curCR3KvoeRC4az%2B6nclQ9SrEsaKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igx%2Fs2nwAxzZtouJ59Eq3ANqfkBK%2FdEX8xkbFEWxi9EQ3ibPuFOdD8%2FyrsgnJQRSiLW0YEf6kYApIyRgS07SsqsMeOWboJOPdmagETIssa8XyTshGQA%2BvEGcA6i3fkJe4ueEyNSCLDfZd6B%2B2%2Fkf1PsAnZjPsAmVU56eqxukZhL%2FVFnUZaKOoz3OLlHMGNBGe5YIqS1u%2Bd2DE0cKUysoJnU2A8hMgPRIMoY01Pmdkmgy1XiZUQTf5Wj%2FkMZHCQM%2Fj%2B2eWXcEuo8hRU7hWorUHA6rkllagkBp3fDBQHxJiGuwPTpUziTuUckW7qhKMLqZyZu4bH9%2Fjj33rrwF%2FmquBXtIc3zLNfda07n5r05e1cCbawsgufD3lNrQfhrZzmAT4pvm%2BlTjQIBXluM1lvaSTYFN2EZa0KvBgpj7yDHA1ofh%2FZe%2BDP1xoG4%2BJXBsFq8buT21SiAeWZo0VblmVbpwKW%2BDTpLLhe3nyYumWoYmHVfG6KvaBcjM3JPzl7BuPmyVFJGKIJMIjbTyhyiJvibdcbgeTFUXYwZXAnwZr2qgWU89fnArvmTM%2FcNCGpvT96s1Rn6RhPDv%2B%2FaqRsmDCjgPE8t3DhmBYx30utoXL0PlCNpxqDTUVBNhITL%2FiUKInIShYPLRkWuBkS2VVeKW%2FzDy%2F%2BDGBjqkAVQb56mJ51hn9VXU1Ov7h7no%2BWFiskka5bNQg9nC8XsnVz6oLpKtnHGaTV9CyWyewLD7bzIxtx4cPLLrNqFX1WfuO9tTB81OjlJkuErVNQZzFHjRV278YH1Aznt9VNIk5HLdQ9n%2Be9PzDMMrhPlrvut5dDCYb2ufrOxZkkTMi9fFbMPGEj2cNN60z1WJDQGzyScTj7acJN56H6fkGquce6%2FMkKmu&X-Amz-Signature=3fd563bf61a160f49b28d265f0832557882b4692d17d1b27d3443c51fc1ad487&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-8086-8535-d0c794ce1059",
+      "title": "디지털 공학 특강",
+      "date": "2024-07-22",
+      "tags": [
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac56380868535d0c794ce1059",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-8035-a7db-ef97d02577d1",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/f7c82192-d57f-407a-a93b-a5007f14aa3b/kid16877-2024_%EC%97%AC%EB%A6%84_%EB%94%94%EC%A7%80%ED%84%B8%EA%B3%B5%ED%95%99%EC%8B%A4%EC%8A%B5_%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46625ESVIB4%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIE0p4nUcVUKwZvTERxYbnhXg5ftuR9m1Gr%2BAf5VZf6WWAiEA5R32NqYiIFCffiN357Q1RfGDSOJ1oxsWyAPH2uzT9qUqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDPUgK%2BM9aE3ZsSDTJSrcAz6SVh9qKStbw4dCXpy1BfnNaMtX1kUtLEleQfN%2Bzyr1tUsbxeM0nbHN97hiTKiilPwZ0A3L%2Bxq9PDo%2FhsA5MuhmCXhRZulf0eESbWxBHGNNbakfkVSaUYmrAvRq3gN7cQRkvPdL3UJnSZjkQ2bcWdp2BiLB7pKsX%2FQVEQz4M9W0qbrrTaNnjLVlE6MVgwN401lNnPoLV%2FGIxTyp0rZfWDoYkct03%2Ft%2FHaVqloqauM2wjN%2BxTGVZD9dVwnWDDLQYVwpfcv70NrpMqcKa%2B4ZgLwPWAbOfNgHlnneyWVzMvzyrmf3apd5ke3J7bSbRlScQVq9fJbpo5XIN%2FKqfU%2FjDGPsH14Z02%2FK%2FT2iH3A%2B0AmPwbFUKRxGDQFAOqjAhh4geP3aYSBS9AwPPQruJf8Dbg1sqmQ5fCasMZVntWDWmAXXheQ9a%2BGS1kr8W3zsRL9nTIsM1TyUuzXr5bnIQqutAfToKr%2BK%2BIzAj2K0IjnqSLy1QALHjBFaxweJe%2Bo6XE6vIednFDzjdxjCekyV8XSzCG2DxOLjSN%2BtsrrKrt0HNZMy8PnISLqkH34Gzo%2BXopyPmiirTrqxgNrqA4NPgYQ%2B01w%2BKPLi6WWVfa7CyEVq%2FiDK5LTQ48QcEKkMwIixlMPP%2F4MYGOqUBDsHdXnV8KaYy9w352iUHmE3v5Jeq9PckBE2%2BHYCuhrAbkLQZ7%2BskYhxw9w2MpfaD%2Bwiufr7MQzg%2F4ILttHlIoRUqdkbWvyIRyRl8fNbnsUqDr8ghPDWPnFoILihYOCMGVht4fppHJFPn6W%2BGR8mzPB83Ff6T9y8jA0Dl%2BIQYY30bA%2BXyvmClThsq16jqxVGYoxRNROlY%2F7XX213U3Lyjufs9asv2&X-Amz-Signature=a4e72bad31bbdcccaac00db749a8e9483b7d13443f4ffd47dbe3b52ca81ba892&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-8021-88e2-fe8038ecb5d1",
+      "title": "정보 보안 특강",
+      "date": "2024-01-22",
+      "tags": [
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac563802188e2fe8038ecb5d1",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-8022-ad51-da6668fada61",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/18dc557f-7f8c-4557-9fc3-1099c4694e8f/kid16784-%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EC%8B%A4%EC%8A%B5_%ED%8A%B9%EA%B0%95_%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666LOTKV2E%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDpEtbmlYW5%2BtDEOz7YLVNnf%2FZMx1V09dzzOWUR9GIBFAIhAKWLbAzLujU9UiiiMe2bv1LSLsJCGPDb%2FbDLzPGWbwjkKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy9mL1mFigsNjbH2rYq3AOFOEPHK%2FvaNk9G9XcwktEUVTo3EbTHjBSUfp74IEahKffdyWiZoLUjeJDR54yjXZ9HBs%2B1v3JsNsJZ5HZ9RZGzV8wbjTmRpx2KV9FnF2WUcgjpvvX1y%2BNSPE3d2gCMJIHWjHdSadhipavef6lg3cTNFe40ZeSQG1xlRvBuNB4tz7Ki7gsm36EUdlmsx8pqLLHFPpkHUghsztT1DKaxv77bZYOE7ydPiEVPg0ffwbwhVClPVpm3%2FDvA6h7%2BPu7dHSZSdBkfllZCFQuS%2BnC3qpH%2Fuci6JDJtm202CSOGMBCmQy356yV%2BsdLvZRqgAhTUvKm3MW0hgmY8RuyPhBpVbzNQS0zZh977vtAsTL4NJOMUK4GVWay6oO2wzHfT3LzGxhme%2FpULtUvpIQ02vbwf7ea3xL5v41Af9bM2Mwq%2FIoMtLZuwu7YULRQCSREMK2o8zv0Ff72heNBo0gBEssXHu05AXOzQvTPAIjD2Njmwgw3pVhjY2%2BD8lN1g1RBS8r%2FMj%2Bx1ku0Fn0KJ38abGRNjdnrcqTEWyqHog4m4FHFCsOifGV7Q8qaN%2BeDBwogjIUxzjCmbeOk36XN7li9Wh4falHcyBZI%2BLNvytNUPFPLJ2UbJLzmEmMYfq1QOTUHv1zDUgOHGBjqkAcHgCDwPitc5BCFk99VI%2Fz224yGxLwOfHiHi6OA3auUFpTLbKoiFCXdt3EGvGYLKIQ6Pnm%2Bhlhwtq29l46m6CmtoZ4w%2BNhdFajZq3lMsQ6UxVtucIN%2FIneZCuDy3H6yBPgMTsCb4d81SdcaRAsdw2nqbZpQFbFUpkduQ51f7Y3%2F88zXIfvJfXDg1JPPPGKBNqsfwPq5vsyAb4B%2F6lhPdEuDsgOso&X-Amz-Signature=320f4ce140d8ed82916424a379aee99fa7edd128ffedc88ef1cfab80efd592bc&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-802b-b26e-fc0ea8a3f268",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/ef883f17-fa77-48b9-9b51-a43e5c995439/kid16797-2024%EA%B2%A8%EC%9A%B8_%EC%98%88%EC%83%81%EC%9D%B8%EC%9B%90.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666LOTKV2E%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDpEtbmlYW5%2BtDEOz7YLVNnf%2FZMx1V09dzzOWUR9GIBFAIhAKWLbAzLujU9UiiiMe2bv1LSLsJCGPDb%2FbDLzPGWbwjkKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1Igy9mL1mFigsNjbH2rYq3AOFOEPHK%2FvaNk9G9XcwktEUVTo3EbTHjBSUfp74IEahKffdyWiZoLUjeJDR54yjXZ9HBs%2B1v3JsNsJZ5HZ9RZGzV8wbjTmRpx2KV9FnF2WUcgjpvvX1y%2BNSPE3d2gCMJIHWjHdSadhipavef6lg3cTNFe40ZeSQG1xlRvBuNB4tz7Ki7gsm36EUdlmsx8pqLLHFPpkHUghsztT1DKaxv77bZYOE7ydPiEVPg0ffwbwhVClPVpm3%2FDvA6h7%2BPu7dHSZSdBkfllZCFQuS%2BnC3qpH%2Fuci6JDJtm202CSOGMBCmQy356yV%2BsdLvZRqgAhTUvKm3MW0hgmY8RuyPhBpVbzNQS0zZh977vtAsTL4NJOMUK4GVWay6oO2wzHfT3LzGxhme%2FpULtUvpIQ02vbwf7ea3xL5v41Af9bM2Mwq%2FIoMtLZuwu7YULRQCSREMK2o8zv0Ff72heNBo0gBEssXHu05AXOzQvTPAIjD2Njmwgw3pVhjY2%2BD8lN1g1RBS8r%2FMj%2Bx1ku0Fn0KJ38abGRNjdnrcqTEWyqHog4m4FHFCsOifGV7Q8qaN%2BeDBwogjIUxzjCmbeOk36XN7li9Wh4falHcyBZI%2BLNvytNUPFPLJ2UbJLzmEmMYfq1QOTUHv1zDUgOHGBjqkAcHgCDwPitc5BCFk99VI%2Fz224yGxLwOfHiHi6OA3auUFpTLbKoiFCXdt3EGvGYLKIQ6Pnm%2Bhlhwtq29l46m6CmtoZ4w%2BNhdFajZq3lMsQ6UxVtucIN%2FIneZCuDy3H6yBPgMTsCb4d81SdcaRAsdw2nqbZpQFbFUpkduQ51f7Y3%2F88zXIfvJfXDg1JPPPGKBNqsfwPq5vsyAb4B%2F6lhPdEuDsgOso&X-Amz-Signature=bf15085c251225fbef7d1dcf51ad38332bdb76a897b48acbc3346879dc8918d1&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-803c-aeba-fd28f2751b32",
+      "title": "파이썬 기초 특강(알고리즘)",
+      "date": "2023-07-24",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac563803caebafd28f2751b32",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-80a1-8f12-fbbd9eac1e9e",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/31ec1975-7e5d-46a1-8ef1-6e1801ace6a0/kid16734-kid16724-%EB%8F%99%EB%9E%98_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B8%B0%EC%B4%88-2-.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4665J77NYTZ%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210605Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQCViNXwL5RDWhKIxmRmfisIBeHZ46jUjNDflPwmQKpwJwIgMlsvHDB0%2FGd%2BpUDqnrOsCW3bg1CSv%2BAqGJqDhLmWm%2FkqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDFQe5R72LjZgeDeNySrcA%2FXyyP%2BvcW9Y0Nrg%2B9LkKEpVt7Ri1n58FqDCjO%2FOsldWgrqMCYFxVya2NmsWZsfRy0ACCPNdfRMZ%2Fvo5OH2kaJLSBhqqg0BJyLOEax12R8kDScV0NnZ01sOqmFFqLRjzeFCGbh%2FhZMaoqhz45lHXZMFcjnR15wkEZB063h1wA6E3bB4U3c4OE4mrjRty9U8JNMd6135Bg4IwCKA33n1oxl7wRrHx1BLSdbbqFtm8fwMIkTEfhnOSoKn9BeEfGxQCang0DrbOSBDNwlUUFC5m9ZQOgvjpxDSjW2JmXE3Dc2myx3mt8z%2BOoxI3ML%2BiBUOFOFNUyiwEFaSpvM7I%2BHbWkVPXVwywNP%2FPHB85PbBDBOwBPWVNgC2hxqIDPjwrcnOO7CiVWiKhHFmDVKOtUR6kBserhQQzG3wec4PnwvU4oeVUEiOVtMhSN0S0%2Bo%2FDFqPHbCg3eQO3TNa6ipXvWm%2FEYa8r7REaKxuZehH4JkbVoYbUQy8XVWx%2BSrbJFBK1H06JOy6H%2BbpNV0xOUgmR38Q4kUkGwRiEj257NnML6u%2BtZJFjYsNsmVpjSqTipnz0E8Q7%2FKvb%2BrzN6f4PXdgMKeCGPWe1O18ANs%2FcTEmQQOnqDA3HEt2850ceLyhSb9INMPf%2F4MYGOqUB6aWCKRASVZ%2FCpkblNzr%2FeYh2qyJhUv1%2B0Xd3ngjZJHfNHsnuxOxv60ihr8lwEHIcgZbWGX0Bfv%2B8tHmVWt%2B9tQlOPKcN7x9xkW%2BGuCx3H24q4RUPsPDfMhmRghaEsP8H%2FHn3UebfaIEbaxKcSqafbOV4trOM0lYcXg9rBv9NRofWDmRF8YZBi9%2BalIVq%2FQSRJXctRsBtj9r7NIJDZzVseYv3qUKW&X-Amz-Signature=f42acdaf9e2f719fadaea953e65a2774cc9518a241ab6c78bce34b5a3b31cf5a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-8060-b51e-ebda16b49b7b",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "참가자 명단(기초 + 심화)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "참가자 명단(기초 + 심화)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-80a4-b429-fc54718b7941",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-80e0-86bd-dd2efc4d191a",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-80bb-8dfa-e51b9b5442fa",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-8025-b3a0-e6fccc9655a2",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "김지후, 이현준, 정명진, 정서준",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "김지후, 이현준, 정명진, 정서준",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-80b5-a28f-e2073f26da4e",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-80f0-8793-c3d4044e773f",
+      "title": "파이썬 심화 특강(웹 스크래핑, 챗 봇)",
+      "date": "2023-07-24",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac56380f08793c3d4044e773f",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-80da-94e6-e460836180c6",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/ced5753b-56be-419c-9069-c07606286a98/kid16735-kid16723-%EB%8F%99%EB%9E%98_%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EC%8B%AC%ED%99%94-2-.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4666DVSXHDY%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJGMEQCIHz3BnF6DVGiNYlRsJ%2FMNlIsJ9S1SCSQm7%2BOAYhLWaIrAiBaxnQuRbx814fTl5IgQP7KKLjAJXNCLVcBbeKaKIQ0byqIBAit%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMuPJ3zvePJQ0%2FzVA4KtwDXHUzOpD%2BTkCuRPb%2FC3fTAJ%2Ft%2BAEhKmb8ooy90ygyfqoajSLOkCNjHfcfMISW%2Fv8FVHzZ2Sk0gbYk2YyoRXIAnvJxQ2E14ZHbgDmVQKECsU2o1pM8ECgy%2BZ7%2Fo2CsmyaihSdlw54IFpMTaWY7psrGPTgJM9%2Fva0bViIrMvsTUs9GFMxkP0JHrFU4IuOAJRxyUzw9x5ixCZVpmqYUNNEEZjwzow5txbS%2BxkpcnEd2BdeNdYc1oEXA0xqWAIjw2NENGD8jtatYHwlK8xRfavLWAuSOQ7hUq2tD8ArTZGb6GqCQy7NCxQ8TwqkejVChR%2F1IKzKSJJw0DClYng3ntH4GBm7t7hBcuZpHyMQdL4UvrevezHzeDfy673zqti6%2FjmwLF0MW4LoZtB49Q3M%2BcC8evNhYfNxusEdKvugb1GcsBeL9T1g6ScNhOII4BdYsraTGD41l19Aw4VPrzEsKLzHeNV%2B%2FgSjOQBKX%2FsIK29%2BEzT4oBelnA9ogHxkGX8GoI5BaFkNyg1e6GYXpplNsux7Hs0HUo%2Fw5eMecWtN3kz8wVhayWSFpuv90HxrjlgwnI5oI5mFbzc3zg8%2BQ0DjRhxYXKvfvwn3BkWcpAb0IoxV%2Fa80hfhPpgjhCRzvghy2owjYDhxgY6pgEyUGgmtzKIzBAgla8dmWeAFgRKtcfssVYam%2FJ06BynNs0twV%2F%2F9agXs24HmmSU9ZiPzUlSaIPFJM8mrBOpffa4Zifw9BIl0KPIvqYGSDDXG0lyzh6uA9ypJfV5DMykPHJaCYX31zd%2FiXjTkE7VqTQE7gFoZIB%2F4X9xcxViPbmdj%2Bd4z9vJxXCsnvzi6%2FAGhLYYgFAL%2F4j%2FuCkHOl6iarb%2BgP3vfBVT&X-Amz-Signature=fb52bfedf22c5dc6fa142dfadd9538c900b4e70fe4113a9b129c3e9cf4991df8&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-80e4-ba3f-f07535a2e762",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "참가자 명단(기초 + 심화)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "참가자 명단(기초 + 심화)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-8074-af33-d66d720b7504",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "김하진, 박현민, 석시헌, 장영민, 전빈후, 전주호, 조동윤, 한승훈,",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-80cb-aa4c-c470afed514c",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "허예린, 강동연, 김민준, 전강민, 조재형, 허아영, 허지석, 김진우,",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-8066-88ab-f164f25cccc4",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "전태윤, 강태은, 이동휘, 이영호, 전재민, 박민재(고2), 박민재(중3)",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-8040-862a-eda3c3451215",
+          "type": "paragraph",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "김지후, 이현준, 정명진, 정서준",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "김지후, 이현준, 정명진, 정서준",
+              "href": null
+            }
+          ],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-802d-884d-c3734129454d",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-8053-a790-d6a46ef76ff3",
+      "title": "파이썬 기초 특강(문법)",
+      "date": "2023-01-02",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac5638053a790d6a46ef76ff3",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-8012-8312-c8760ab54516",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/3d5a5476-93d9-4688-93dc-f9eb2b172229/kid16599-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46624CM4YX2%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIAiSfrcVkOAGGygWj0NTyXnOnRmmYqugdvhJSTpi%2B7fpAiEArrYuqj4lUML3X1GN%2B0G9%2FU4xvuJ6CiJQihKmHR36xkYqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDMKZ7gMNpJ3WsP%2FyWCrcA%2Bi%2BddYtL0v9DGYg23EWuAZCe24criwS%2BE9FU%2BeuJXw5Z4p147m2XEyE4ToNiKBn%2BwvQFFxJ5WQ3Df92tEBqLI96a%2BGH03bIB2%2BtMaB5m0CrMtp5uvt7ZqIwrf93vcZQ9ZOchPTlLV04VWgVejz9M5UD%2FEKEQN%2Fzvx6qTM6RvOyTyMkHf00pGbQEk5yJV4LIKEe6lHLYw9ZU0%2B%2B8fyfs6TNmR3CdSfAjFSQ5ZUYWfvaYVruWwJCtf4JkU0egO1nc%2FNm%2FAM9wqhzfMXrfhH3DVpiYPaXpgK9a1ufZOoxj4kABcjM7WUeE%2BB%2FoeIsc2R8B2pdEjvoVWQ3lAe8Cpc%2FaMDLXP%2FbGSP%2FJBrmznCgxmLCDxaBlMEr67YIGVMagWhWlMy8E8MooVI8nhiDj8q%2FF%2F6kPMy%2FzMxlcbKEoV71wUp86Jfx2%2FDEGgXd7VvrCppwEsXdQQD2wyELvj4hXrWSfVnhHX%2ByuV5WvBq0%2BDpdeP8FBaWFYXCqSVgmfx9P64IwRlvRgkofB%2Bx9w0dILsQYVnB%2FtXqiiWHPehFCNA47LFgFpMiExk1ex3bJ6UyQASB1WuXyNY1yWfmTXbm%2BqHBf06mdZJzSqIGX5DmZbktfy9BM7k6wBzhTdmcKqEiDnMI6A4cYGOqUBY%2Fz3p2pT4SSnEQNST5dWkcIwBpoJp4b2mwxzNsqxd6lKBarcXFb1tHkdDplKRxCeru5uea9NXYTTTJdm%2FCFcjbEZ58ooLE1gEYEzipAwnPzeBish2u%2F6bOY5Bl32ejj8INeQdaoc8BItmFb7Otpgfvd9kMFtVR%2FLhcHB7FzOJYsLdFFOZpqGD%2BUcMyi95nho%2F8Y1I0JMzWRapZvrODIthw95oWZB&X-Amz-Signature=d1a1f6375aa07d4443b8d890393a34d673545e312225d2a62e7fb7ade57465f2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-80c3-ac53-dcc1e1068514",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/a15f49ff-64b8-4263-a5dc-3452f5d049f8/kid16632-23%EB%85%841%EC%9B%94%EB%B0%A9%ED%95%99%ED%8A%B9%EA%B0%95%EB%B0%98%EC%9D%B8%EC%9B%90.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB46624CM4YX2%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIAiSfrcVkOAGGygWj0NTyXnOnRmmYqugdvhJSTpi%2B7fpAiEArrYuqj4lUML3X1GN%2B0G9%2FU4xvuJ6CiJQihKmHR36xkYqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDMKZ7gMNpJ3WsP%2FyWCrcA%2Bi%2BddYtL0v9DGYg23EWuAZCe24criwS%2BE9FU%2BeuJXw5Z4p147m2XEyE4ToNiKBn%2BwvQFFxJ5WQ3Df92tEBqLI96a%2BGH03bIB2%2BtMaB5m0CrMtp5uvt7ZqIwrf93vcZQ9ZOchPTlLV04VWgVejz9M5UD%2FEKEQN%2Fzvx6qTM6RvOyTyMkHf00pGbQEk5yJV4LIKEe6lHLYw9ZU0%2B%2B8fyfs6TNmR3CdSfAjFSQ5ZUYWfvaYVruWwJCtf4JkU0egO1nc%2FNm%2FAM9wqhzfMXrfhH3DVpiYPaXpgK9a1ufZOoxj4kABcjM7WUeE%2BB%2FoeIsc2R8B2pdEjvoVWQ3lAe8Cpc%2FaMDLXP%2FbGSP%2FJBrmznCgxmLCDxaBlMEr67YIGVMagWhWlMy8E8MooVI8nhiDj8q%2FF%2F6kPMy%2FzMxlcbKEoV71wUp86Jfx2%2FDEGgXd7VvrCppwEsXdQQD2wyELvj4hXrWSfVnhHX%2ByuV5WvBq0%2BDpdeP8FBaWFYXCqSVgmfx9P64IwRlvRgkofB%2Bx9w0dILsQYVnB%2FtXqiiWHPehFCNA47LFgFpMiExk1ex3bJ6UyQASB1WuXyNY1yWfmTXbm%2BqHBf06mdZJzSqIGX5DmZbktfy9BM7k6wBzhTdmcKqEiDnMI6A4cYGOqUBY%2Fz3p2pT4SSnEQNST5dWkcIwBpoJp4b2mwxzNsqxd6lKBarcXFb1tHkdDplKRxCeru5uea9NXYTTTJdm%2FCFcjbEZ58ooLE1gEYEzipAwnPzeBish2u%2F6bOY5Bl32ejj8INeQdaoc8BItmFb7Otpgfvd9kMFtVR%2FLhcHB7FzOJYsLdFFOZpqGD%2BUcMyi95nho%2F8Y1I0JMzWRapZvrODIthw95oWZB&X-Amz-Signature=36012b3646cd34c1d7f4078e113cbd4057093368e723f939e3b51b1f66a282dd&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-8021-9adb-f31536fdaa5d",
+      "title": "파이썬 심화 특강(데이터 분석)",
+      "date": "2023-01-02",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac56380219adbf31536fdaa5d",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-80c1-a065-d8fb79370fd1",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/9201b6f9-f7a2-465f-9e9f-050021e3427e/kid16600-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%AC%ED%99%94%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QW2ZOS7N%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDqUBLPvDwXFK%2Fb99SBCMpmfKuS%2BIpYeiQ9RsNapsCr3gIhAP86JP4UpfPhBEZtd4aRLHnARWCSles51zsj5uTnC%2FbaKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyjP%2Fp2dXjVOjjquO8q3AOOzCW1RE6foOdjK592N9Woh6OweUnHYeuN7aXGmmkhdcOwWo5dVmEqm9Q1dCl1tnqEsg6EbD8VDx5pJBPhvBtZSgR%2Fi856u3nGck3A4pXG2wBcmQwOyhfdUQ5tDuJvue9KdOO1f2k0TOTKhPdtw8D6czMxaGJHQA2LQIwgckhsbbLqXeif1xjH8uG1xM9bCa0T8Ooh7OAbK6FPnX2rpZQV7U2Y0Cb4%2FhlbNT3X6p9LkODooxP%2Ff3doEqrv2ExpcYGuZFbG4SObHC0sK9BsAJH%2BEfgZT%2BqOBHXAbgaYYsaU2G0blvbIwWQsinirrAO0Ybq4shlTabvSl4IiBG4pbrqDuQukpWdBBvHCHqGDwCYgb%2FuRjTBXOTeliB95SVy1ELdod332bHTbJVHFPawIcPWcTeeT7NG4cIWb%2BKQWRw%2BUW%2BZUpIZq4xdusuB0EMsjqazq4GJ4RsjEfmwSsdc1Kjobh7crSgTV%2BmBu2qa0zv1yghgkQxB2uyCPbuRyus0fKXuq0leRKfZB%2FkcLvGy0eByrdTtFyfzW7arbMLUll8NRZDgXLvEbrQgtVahfa1IwL3bB7hR7r0wxLpnXNzW%2B69VrQ%2B4QMPKtOHSq4MuzQ%2B%2Fi9w7H1XszuEM8Rmc52DCbgeHGBjqkARTGGenRppeSw3fZ%2F5WuVMFoKqwV%2BLzlCYrTUxF3UtiELpu9DfQHSjji6d%2FJtMyAVURfDmuC%2BQW9%2F3arIWe9ruJ%2B2KTYjmskxsWu3XjpDHNtbIhhAvz1ymD%2Ft00FKgzf%2FSj5m3iVAM6AD0To7K1Vibti2kuR3VsBsLu2RmvXT3hd%2BI2evwJbBOd7yq9jzoVzpYz5ovBrx3nDYgnbQbZp3RGIaUTp&X-Amz-Signature=1d3824a00d72b2ba3e64b2ac0037c4e3d507eff69c211f637fea177b40db48ee&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-8046-bfc2-ee1b46105bbe",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/e013730b-ba23-426d-b4d3-f9e7536dd586/kid16632-23%EB%85%841%EC%9B%94%EB%B0%A9%ED%95%99%ED%8A%B9%EA%B0%95%EB%B0%98%EC%9D%B8%EC%9B%90.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466QW2ZOS7N%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJIMEYCIQDqUBLPvDwXFK%2Fb99SBCMpmfKuS%2BIpYeiQ9RsNapsCr3gIhAP86JP4UpfPhBEZtd4aRLHnARWCSles51zsj5uTnC%2FbaKogECK3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNjM3NDIzMTgzODA1IgyjP%2Fp2dXjVOjjquO8q3AOOzCW1RE6foOdjK592N9Woh6OweUnHYeuN7aXGmmkhdcOwWo5dVmEqm9Q1dCl1tnqEsg6EbD8VDx5pJBPhvBtZSgR%2Fi856u3nGck3A4pXG2wBcmQwOyhfdUQ5tDuJvue9KdOO1f2k0TOTKhPdtw8D6czMxaGJHQA2LQIwgckhsbbLqXeif1xjH8uG1xM9bCa0T8Ooh7OAbK6FPnX2rpZQV7U2Y0Cb4%2FhlbNT3X6p9LkODooxP%2Ff3doEqrv2ExpcYGuZFbG4SObHC0sK9BsAJH%2BEfgZT%2BqOBHXAbgaYYsaU2G0blvbIwWQsinirrAO0Ybq4shlTabvSl4IiBG4pbrqDuQukpWdBBvHCHqGDwCYgb%2FuRjTBXOTeliB95SVy1ELdod332bHTbJVHFPawIcPWcTeeT7NG4cIWb%2BKQWRw%2BUW%2BZUpIZq4xdusuB0EMsjqazq4GJ4RsjEfmwSsdc1Kjobh7crSgTV%2BmBu2qa0zv1yghgkQxB2uyCPbuRyus0fKXuq0leRKfZB%2FkcLvGy0eByrdTtFyfzW7arbMLUll8NRZDgXLvEbrQgtVahfa1IwL3bB7hR7r0wxLpnXNzW%2B69VrQ%2B4QMPKtOHSq4MuzQ%2B%2Fi9w7H1XszuEM8Rmc52DCbgeHGBjqkARTGGenRppeSw3fZ%2F5WuVMFoKqwV%2BLzlCYrTUxF3UtiELpu9DfQHSjji6d%2FJtMyAVURfDmuC%2BQW9%2F3arIWe9ruJ%2B2KTYjmskxsWu3XjpDHNtbIhhAvz1ymD%2Ft00FKgzf%2FSj5m3iVAM6AD0To7K1Vibti2kuR3VsBsLu2RmvXT3hd%2BI2evwJbBOd7yq9jzoVzpYz5ovBrx3nDYgnbQbZp3RGIaUTp&X-Amz-Signature=d15b4de4c0d2614c0325502e192ad9f79b484beb18271cb4aed952e442221830&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-8034-a8af-f8c89b79bfab",
+      "title": "파이썬 기초 특강(문법)",
+      "date": "2022-07-25",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac5638034a8aff8c89b79bfab",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-800e-bce0-d713cba58a2d",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/234b1d57-f59f-472e-8466-31f1e972ca57/kid16542-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B8%B0%EC%B4%88%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663O63PIQA%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQCxF%2Fy%2BKlQkZvjADVV40L70ojtzAMnxTI1ryxxCKtEHzQIgYpkgUB2Y3RwKZD0hin%2BhmcDBSxr6qNYNGsicYkjy388qiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKjFZDaFhXT%2Ft0PxYSrcA9V3x9OuCwGHUhlBdyC96WFNYqhxH9uzGDsW6MB5HBWSWi3ZAhPWzAhwgBJEryxE%2Ba0KcmWHiGIbezjG2zv8IbkhLpzVqRedSPagUdaE4Zf5gHNOkyGCUk0iA%2Bx6hvZH%2Bo3pINEihxHziytACqs1FRndy0Z%2FXDD2z7P725e4Ibo4LfcdKMEGST%2BRn%2Fb7AtaaetIfljusZ03d%2FBmdrGd8HpghpRNrvj84VqReaNN5zvfkaTpKps6BgTmW4AedJokCXjKmHteHXowA28QBFiVJuxl%2B81b0HVqHEyngiCGpsvvjRHBFweronXTHZn%2FvtCQGVROyyM%2F%2FDMrfoS1iVbW2Uf8y7bEQLC2OkW4DjHv4uaOV7FTpAeT6qSr3vAekowZlDwjJoOq6Yh1SNafkUkfp9GtlW6sF6z%2B%2BQuo0unMqkB5ug5jBzsVwmGeT%2BCipZBOTNq0wzuqKvKvvWq3LAlqPdq4b4P9vVENCG%2BrV3pk3Boz48exgptFYDIvs8nW9E3s0Gh8sGG0Xp7e3siIlG%2Fi8eXiNBY3F11AgPsa2ggPJ9%2BcD%2B3WDqaZh8lg5dEmr2eH5%2BWxHKgw3st7tXAAFqmEBBUg9vP7BbT1gQwebMGMTU7N0kqVXU2QlrzoJYWrtMIiB4cYGOqUBjg5QhTAx6nZEtsdfGBsD%2BN4A%2FdubEVTrf654L%2Fk2n4fxWlYglSaJqKjRgb6ZaSbsAdeLGM49mEP8riZUG62GoYItIcZI4r44km9JIw%2BhHvP%2FQoXSMN0VlBdDUQhzBsbVYiu8LHq9uWiX%2FeEcC4LftTyAzx02fcGrUCtsw6ov%2F0hZ%2FdH8YFXxwzA71rKq3vcpLEBWEQDwWlv0ZxOvXzlav2o9GAJ0&X-Amz-Signature=7c3b316b11285fd4fdff0e87d1fcc38ef739c2a3eb6c14d3b5abd4e999ea2eca&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-80fd-9b6d-e857aa34f0ca",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/e666ab1c-e10b-496e-9743-02894746b43f/kid16561-2022%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%ED%8A%B9%EA%B0%95%EB%AA%85%EB%8B%A8-%EC%82%AC%ED%95%98%EB%8F%99%EB%9E%98-.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663O63PIQA%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210607Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQCxF%2Fy%2BKlQkZvjADVV40L70ojtzAMnxTI1ryxxCKtEHzQIgYpkgUB2Y3RwKZD0hin%2BhmcDBSxr6qNYNGsicYkjy388qiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDKjFZDaFhXT%2Ft0PxYSrcA9V3x9OuCwGHUhlBdyC96WFNYqhxH9uzGDsW6MB5HBWSWi3ZAhPWzAhwgBJEryxE%2Ba0KcmWHiGIbezjG2zv8IbkhLpzVqRedSPagUdaE4Zf5gHNOkyGCUk0iA%2Bx6hvZH%2Bo3pINEihxHziytACqs1FRndy0Z%2FXDD2z7P725e4Ibo4LfcdKMEGST%2BRn%2Fb7AtaaetIfljusZ03d%2FBmdrGd8HpghpRNrvj84VqReaNN5zvfkaTpKps6BgTmW4AedJokCXjKmHteHXowA28QBFiVJuxl%2B81b0HVqHEyngiCGpsvvjRHBFweronXTHZn%2FvtCQGVROyyM%2F%2FDMrfoS1iVbW2Uf8y7bEQLC2OkW4DjHv4uaOV7FTpAeT6qSr3vAekowZlDwjJoOq6Yh1SNafkUkfp9GtlW6sF6z%2B%2BQuo0unMqkB5ug5jBzsVwmGeT%2BCipZBOTNq0wzuqKvKvvWq3LAlqPdq4b4P9vVENCG%2BrV3pk3Boz48exgptFYDIvs8nW9E3s0Gh8sGG0Xp7e3siIlG%2Fi8eXiNBY3F11AgPsa2ggPJ9%2BcD%2B3WDqaZh8lg5dEmr2eH5%2BWxHKgw3st7tXAAFqmEBBUg9vP7BbT1gQwebMGMTU7N0kqVXU2QlrzoJYWrtMIiB4cYGOqUBjg5QhTAx6nZEtsdfGBsD%2BN4A%2FdubEVTrf654L%2Fk2n4fxWlYglSaJqKjRgb6ZaSbsAdeLGM49mEP8riZUG62GoYItIcZI4r44km9JIw%2BhHvP%2FQoXSMN0VlBdDUQhzBsbVYiu8LHq9uWiX%2FeEcC4LftTyAzx02fcGrUCtsw6ov%2F0hZ%2FdH8YFXxwzA71rKq3vcpLEBWEQDwWlv0ZxOvXzlav2o9GAJ0&X-Amz-Signature=cc520057acba91fec8b911715f7d3738911f85361bd67f1dcf90b44a81a964de&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
+      ]
+    },
+    {
+      "id": "27a680ca-c563-80db-ba50-f0c7ce76223b",
+      "title": "파이썬 심화 특강(데이터 분석)",
+      "date": "2022-07-25",
+      "tags": [
+        "Python",
+        "IM4U"
+      ],
+      "status": "알수없음",
+      "image": null,
+      "description": "",
+      "lastEdited": "2025-09-27T17:45:00.000Z",
+      "url": "https://www.notion.so/27a680cac56380dbba50f0c7ce76223b",
+      "blocks": [
+        {
+          "id": "27a680ca-c563-8005-8dca-e919ae7d412f",
+          "type": "paragraph",
+          "rich_text": [],
+          "color": "default"
+        },
+        {
+          "id": "27a680ca-c563-807f-8347-d697d6bf594a",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/bce04265-6912-4221-bd20-ba66dc858bda/kid16543-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%8B%AC%ED%99%94%EA%B0%95%EC%9D%98%EA%B3%84%ED%9A%8D%EC%84%9C.hwp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663OFIBDCU%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210610Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQC%2F5MS%2BEwXnzSLYyQxgwP8muyDnD7fKxkYKrobbKtyHqwIgQL1FNYgt9kBxuCRWQ%2BcyzBa%2FqN2EudzLg3FkMfDn7eMqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHT%2BFOT1GdSu3DfMdCrcAw%2FIjKDqBV6cBXcA3YvH7p5%2B82Wv5CcsjNAikkmcwQ3OTpAA8ShV4Z6kBPb04T0s7gJKrfbN6oDemtwv566oQoZwcuMqMq%2FPJTWKvWCKyDXwXMSSHneXRhwKXpTNNVs6lhixa8b8920p5UlSaBg54Kv5GDv8zZkDv4dPPI1eic8GWKrRp%2F3Uf3anwugvOUGVSU3q6Po%2FmWRRgANSSwhpK0zoVHsPu3IZJKGJrhaPF1759XeN%2BxUtBbxGpg%2BbWPzZYM3%2BK1xZeHT30642%2FEAV9K2J6TUQ%2FCk2GN%2B%2Fo%2FE5%2FneonucdQn3jccH8JBB5Yxap0oGDa%2FzeeG8PcsYR6pxp15Upyb44Y%2BdIrV8ggHWrejWG0n45GGcFUHqbYfhMd01bkdcRIew%2F0mpqxYtBZbKWHa%2FeBcjB7nln4B1J9qBYDKh3RwyUCYWs2KHiKIZaXUhuo%2BEecNIfMh6yiok9mvBecz8Ynb%2FUkTZU5ZyGBAtu2g1Uhk9bOVc3fkjF6epRbMZSjqYGyt0bnnDJICdq7SZIXmTmGRa8YGIStzGxBIF9sm33UKFbLf7XMjMghRFU%2F8Njql3PWE%2FQOGHj3Es9uRTpk7TzVL%2FqTIV%2BdngjGipSH9b6GX1EvqAKfRHNqGpaMM2A4cYGOqUBurRWC2TkMCbJahDUgh5AfMhJKwbW3DV875HgDu0VjfsrXa0v%2BCEWKA9E3PGHewK2lI4jCU44uCqXMSAiXHxqC9oWOfI3o6QKmw2i3Dx7V8gc2Ep16XGNwBW7VCP5nIgdKoc9Buh9PY0LsJiQPT1ZnuRt1nAwFjeivaA%2FXH08VqvE2GBJ4TZPcUv6KAXpTA5aUEoqPlBl3uS8p4DmSDI59MNa3pMK&X-Amz-Signature=863a65320b377115660c9fb350972244689afd119afac1170d484db2e00b9e3a&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        },
+        {
+          "id": "27a680ca-c563-8017-a32f-d007f76dc52f",
+          "type": "file",
+          "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/bdbca5cc-1a6a-4f92-b63b-35bf16d62037/c0001d2a-cb01-4ea1-9a31-3bf1ca8c636b/kid16561-2022%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%ED%8A%B9%EA%B0%95%EB%AA%85%EB%8B%A8-%EC%82%AC%ED%95%98%EB%8F%99%EB%9E%98-.xlsx?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4663OFIBDCU%2F20250927%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250927T210610Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECQaCXVzLXdlc3QtMiJHMEUCIQC%2F5MS%2BEwXnzSLYyQxgwP8muyDnD7fKxkYKrobbKtyHqwIgQL1FNYgt9kBxuCRWQ%2BcyzBa%2FqN2EudzLg3FkMfDn7eMqiAQIrf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDHT%2BFOT1GdSu3DfMdCrcAw%2FIjKDqBV6cBXcA3YvH7p5%2B82Wv5CcsjNAikkmcwQ3OTpAA8ShV4Z6kBPb04T0s7gJKrfbN6oDemtwv566oQoZwcuMqMq%2FPJTWKvWCKyDXwXMSSHneXRhwKXpTNNVs6lhixa8b8920p5UlSaBg54Kv5GDv8zZkDv4dPPI1eic8GWKrRp%2F3Uf3anwugvOUGVSU3q6Po%2FmWRRgANSSwhpK0zoVHsPu3IZJKGJrhaPF1759XeN%2BxUtBbxGpg%2BbWPzZYM3%2BK1xZeHT30642%2FEAV9K2J6TUQ%2FCk2GN%2B%2Fo%2FE5%2FneonucdQn3jccH8JBB5Yxap0oGDa%2FzeeG8PcsYR6pxp15Upyb44Y%2BdIrV8ggHWrejWG0n45GGcFUHqbYfhMd01bkdcRIew%2F0mpqxYtBZbKWHa%2FeBcjB7nln4B1J9qBYDKh3RwyUCYWs2KHiKIZaXUhuo%2BEecNIfMh6yiok9mvBecz8Ynb%2FUkTZU5ZyGBAtu2g1Uhk9bOVc3fkjF6epRbMZSjqYGyt0bnnDJICdq7SZIXmTmGRa8YGIStzGxBIF9sm33UKFbLf7XMjMghRFU%2F8Njql3PWE%2FQOGHj3Es9uRTpk7TzVL%2FqTIV%2BdngjGipSH9b6GX1EvqAKfRHNqGpaMM2A4cYGOqUBurRWC2TkMCbJahDUgh5AfMhJKwbW3DV875HgDu0VjfsrXa0v%2BCEWKA9E3PGHewK2lI4jCU44uCqXMSAiXHxqC9oWOfI3o6QKmw2i3Dx7V8gc2Ep16XGNwBW7VCP5nIgdKoc9Buh9PY0LsJiQPT1ZnuRt1nAwFjeivaA%2FXH08VqvE2GBJ4TZPcUv6KAXpTA5aUEoqPlBl3uS8p4DmSDI59MNa3pMK&X-Amz-Signature=9fca774d1ce48af2ca79b92f080a138377600ddd1d4dc9fff8f986a63f163b57&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+          "name": "파일",
+          "caption": []
+        }
       ]
     }
   ],
-  "generatedAt": "2025-09-27T20:55:55.321Z"
+  "generatedAt": "2025-09-27T21:06:10.355Z"
 }
