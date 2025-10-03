@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 */6 * * *'  # 6시간마다 자동 갱신
+    - cron: '0 * * * *'  # 1시간마다 (매 시 0분)
 
 jobs:
   build_deploy:

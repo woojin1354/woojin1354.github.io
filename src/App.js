@@ -3,8 +3,9 @@ import Nav from "./Nav.js";
 import MainPage from "./MainPage.js";
 import { Route, Routes } from "react-router-dom";
 import ProjectPage from "./ProjectPage.js";
+import ContactPage from "./ContactPage.js";
 
-const navItems = [{title: 'Main', path:'/', page: <MainPage/>}, {title : 'Projects', path:'/projects', page: <ProjectPage/>}, {title : 'Contact', path:'/contact'}];
+const navItems = [{title: 'Main', path:'/', page: <MainPage/>}, {title : 'Projects', path:'/projects', page: <ProjectPage/>}, {title : 'Contact', path:'/contact', page: <ContactPage/>}];
 
 function App() {
     return (
